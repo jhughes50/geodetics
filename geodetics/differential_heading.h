@@ -6,6 +6,9 @@
 * true north heading. 
 */
 
+#ifndef DIFFERENTIAL_HEADING_H
+#define DIFFERENTIAL_HEADING_H
+
 #include <cmath>
 
 namespace geodetics
@@ -31,3 +34,5 @@ double GetHeading(double lat1, double lon1, double lat2, double lon2)
 }
 
 } // namespace geodetics
+
+#endif

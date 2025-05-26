@@ -8,8 +8,8 @@
  *  $Id$
  */
 
-#ifndef _UTM_H
-#define _UTM_H
+#ifndef CONVERSIONS_H
+#define CONVERSIONS_H
 
 /**  @file
 
